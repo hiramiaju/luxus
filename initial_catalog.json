@@ -1,0 +1,243 @@
+{
+  "brands": [
+    {
+      "name": "LUXU Selection",
+      "active": true
+    },
+    {
+      "name": "Motion Studio",
+      "active": true
+    },
+    {
+      "name": "Core Athletics",
+      "active": true
+    }
+  ],
+  "products": [
+    {
+      "name": "Sculpt Legging",
+      "sku": "LX-001",
+      "brand": "LUXU Selection",
+      "type": "Leggings",
+      "gender": "Mujer",
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "color": "Negro",
+      "colors": [
+        "Negro"
+      ],
+      "price": 649,
+      "stock": 8,
+      "collection": "Novedad",
+      "featured": true,
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1506629905607-d9b297d9d0b1?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Essential Training Top",
+      "sku": "LX-002",
+      "brand": "Motion Studio",
+      "type": "Top",
+      "gender": "Mujer",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Rosa",
+      "colors": [
+        "Rosa"
+      ],
+      "price": 399,
+      "stock": 12,
+      "collection": "Esencial",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Performance Tee",
+      "sku": "LX-003",
+      "brand": "Core Athletics",
+      "type": "Playera",
+      "gender": "Hombre",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Gris",
+      "colors": [
+        "Gris"
+      ],
+      "price": 459,
+      "stock": 7,
+      "collection": "Novedad",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1534368270820-9de3d8053204?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Studio Set",
+      "sku": "LX-004",
+      "brand": "LUXU Selection",
+      "type": "Conjunto",
+      "gender": "Mujer",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "color": "Beige",
+      "colors": [
+        "Beige"
+      ],
+      "price": 1099,
+      "stock": 4,
+      "collection": "Novedad",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Flex Training Short",
+      "sku": "LX-005",
+      "brand": "Core Athletics",
+      "type": "Short",
+      "gender": "Hombre",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Negro",
+      "colors": [
+        "Negro"
+      ],
+      "price": 499,
+      "stock": 0,
+      "collection": "Oferta",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Everyday Hoodie",
+      "sku": "LX-006",
+      "brand": "Motion Studio",
+      "type": "Sudadera",
+      "gender": "Unisex",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Azul",
+      "colors": [
+        "Azul"
+      ],
+      "price": 799,
+      "stock": 6,
+      "collection": "Esencial",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Flow Legging",
+      "sku": "LX-007",
+      "brand": "Motion Studio",
+      "type": "Leggings",
+      "gender": "Mujer",
+      "sizes": [
+        "XS",
+        "S",
+        "L"
+      ],
+      "color": "Gris",
+      "colors": [
+        "Gris"
+      ],
+      "price": 599,
+      "stock": 10,
+      "collection": "Oferta",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Core Training Tee",
+      "sku": "LX-008",
+      "brand": "LUXU Selection",
+      "type": "Playera",
+      "gender": "Unisex",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": "Negro",
+      "colors": [
+        "Negro"
+      ],
+      "price": 449,
+      "stock": 5,
+      "collection": "Esencial",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=750&auto=format&fit=crop"
+    },
+    {
+      "name": "Active Shorts",
+      "sku": "LX-009",
+      "brand": "LUXU Selection",
+      "type": "Short",
+      "gender": "Mujer",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "color": "Rosa",
+      "colors": [
+        "Rosa"
+      ],
+      "price": 429,
+      "stock": 9,
+      "collection": "Novedad",
+      "active": true,
+      "demo": true,
+      "image": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?w=750&auto=format&fit=crop"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Leggings",
+      "active": true
+    },
+    {
+      "name": "Top",
+      "active": true
+    },
+    {
+      "name": "Short",
+      "active": true
+    },
+    {
+      "name": "Playera",
+      "active": true
+    },
+    {
+      "name": "Conjunto",
+      "active": true
+    },
+    {
+      "name": "Sudadera",
+      "active": true
+    }
+  ]
+}
